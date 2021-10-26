@@ -1,3 +1,3 @@
-module github.com/empirehero/goutils.git
+module github.com/empirehero/goutils
 
 go 1.16
